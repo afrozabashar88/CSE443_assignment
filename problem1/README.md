@@ -3,7 +3,7 @@
 
 The objective of this project is to build a Convolutional Neural Network (CNN) model to classify chest X-ray images as **PNEUMONIA** or **NORMAL**.
 
-## 📊 Dataset
+##  Dataset
 
 * Dataset: Chest X-ray Images
 * Classes:
